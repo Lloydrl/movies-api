@@ -1,5 +1,5 @@
 # movies-api
-This is a movies API. You can view data on all movies in the API or you can searched by movie type(rom-com and action are the only two categories currently added).
+This is a movies API. You can view data on all movies in the API or you can searched by movie type(rom-com and action are the only two view sets currently added).
 
 This API also has the functionality to add new movies to it!
 
