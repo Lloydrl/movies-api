@@ -5,7 +5,7 @@ This API also has the functionality to add new movies to it!
 
 ### How to Use
 This is a Django project so in order to view the API, you should do the following:
-1. Make sure Django and Django Rest Framework is installed on your computer
+1. Make sure Django, Django Rest Framework, and Pillow are installed on your computer
 2. Run `pipenv install` to create the virtual environment and install dependencies
 3. Run `pipenv shell` to enter the new virtual environment
 4. Run `python manage.py migrate` to make migrations
